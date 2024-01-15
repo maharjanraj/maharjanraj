@@ -1,15 +1,16 @@
-### Hi there 👋
+<div align="center">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=blue&center=true&vCenter=true&width=435&lines=Hey..+I'm+Raj;This+is..;..my+Github..;" alt="Typing SVG"/>
+</div>
 
-I am a Software Engineer with over 8 years of experience in software development industries.
+🚀 Software Engineer with Bachelor’s Degree in Computer Engineering and 7+ years of experience in building scalable, fast web applications including frontend, backend, database, system design, and DevOps.
 
-## Skills
-* Reactjs
-* Nodejs
-* Python
-* MongoDB
-* Postgresql
-* GraphQL
-* Git
+## Key Skills
+Languages and frameworks -- JavaScript, Typescript, Node, Bash, Python, Java, PHP, HTML, CSS,  React, Redux, Redux-Saga, Express
+SQL and NoSQL databases – MongoDB, MySQL, Postgres, Neo4j, Zookeeper, ArangoDB
+Project Management / Control – Git, JIRA, Monday, Trello
+Hands-on experience with cloud – AWS, Digital Ocean
+Problem-solving
+
 
 ## Articles
 
