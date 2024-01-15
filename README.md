@@ -11,6 +11,15 @@ Project Management / Control – Git, JIRA, Monday, Trello
 Hands-on experience with cloud – AWS, Digital Ocean
 Problem-solving
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maharjanraj/maharjanraj/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maharjanraj/maharjanraj/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maharjanraj/maharjanraj/output/github-contribution-grid-snake.svg">
+</picture>
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maharjanraj&theme=github_dark" alt="Raj's GitHub Stats"/>
+</div>
 
 ## Articles
 
