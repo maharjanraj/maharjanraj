@@ -1,15 +1,43 @@
 <div align="center">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=blue&center=true&vCenter=true&width=435&lines=Hey..+I'm+Raj;This+is..;..my+Github..;" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=blue&center=true&vCenter=true&width=435&lines=Hey..+I'm+Raj;This+is..;..my+Github..;" alt="Typing SVG"/>
 </div>
 
-🚀 Software Engineer with Bachelor’s Degree in Computer Engineering and 7+ years of experience in building scalable, fast web applications including frontend, backend, database, system design, and DevOps.
+Software Engineer with Bachelor’s Degree in Computer Engineering and 7+ years of experience in building scalable, fast web applications including frontend, backend, database, system design, and DevOps.
 
 ## Key Skills
-Languages and frameworks -- JavaScript, Typescript, Node, Bash, Python, Java, PHP, HTML, CSS,  React, Redux, Redux-Saga, Express
-SQL and NoSQL databases – MongoDB, MySQL, Postgres, Neo4j, Zookeeper, ArangoDB
-Project Management / Control – Git, JIRA, Monday, Trello
-Hands-on experience with cloud – AWS, Digital Ocean
-Problem-solving
+### Languages and frameworks
+<div>
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript" />
+    <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" />
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+    <img src="https://img.shields.io/badge/Redux-Saga-999999?style=for-the-badge&logo=reduxsaga&logoColor=white" alt="Redux Saga" />
+</div>
+
+### Databases
+<div>
+    <img src="https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
+</div>
+
+### Project Management 
+<div>
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+</div>
+
+### Cloud Technologies
+<div>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="Digital Ocean" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+</div>
+
+## Github contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maharjanraj/maharjanraj/output/github-contribution-grid-snake-dark.svg">
@@ -17,7 +45,7 @@ Problem-solving
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maharjanraj/maharjanraj/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center">
+<div>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maharjanraj&theme=github_dark" alt="Raj's GitHub Stats"/>
 </div>
 
