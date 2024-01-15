@@ -29,7 +29,7 @@ Software Engineer with Bachelor’s Degree in Computer Engineering and 7+ years 
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </div>
 
-### Cloud Technologies
+### ☁️ Cloud Technologies
 <div>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
     <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="Digital Ocean" />
@@ -61,10 +61,16 @@ Read [React Render Optimization Few Tips](https://medium.com/swlh/react-render-o
 [JavaScript Constructors vs Literals](https://javascript.plainenglish.io/javascript-constructors-vs-literals-2d19e8b5f2d9)
 
 #### Further readings:
-
-[Medium](https://medium.com/@raj_maharjan)
-
-[Dev](https://dev.to/rajmaharjan)
+<div>
+    
+</div>
+    <a href="https://medium.com/@raj_maharjan">
+        <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    </a>
+     <a href="https://dev.to/rajmaharjan">
+        <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+    </a>
+</div>
 
 <!--
 **maharjanraj/maharjanraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
